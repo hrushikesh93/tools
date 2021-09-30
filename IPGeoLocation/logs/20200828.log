@@ -1,0 +1,5 @@
+[INFO] 2020-08-28 16:20:00 - Retrieving 207.0.0.1 Geolocation..
+[ERROR] 2020-08-28 16:20:00 - An unexpected error occurred <urlopen error [Errno 7] No address associated with hostname>!
+[ERROR] 2020-08-28 16:20:00 - Retrieving IP Geolocation information failed.
+[ERROR] 2020-08-28 16:20:26 - Please provide a valid Domain or IP address!
+[ERROR] 2020-08-28 16:20:26 - Retrieving IP Geolocation information failed.

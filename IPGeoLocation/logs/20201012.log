@@ -1,0 +1,5 @@
+[ERROR] 2020-10-12 14:12:22 - Please provide a valid Domain or IP address!
+[ERROR] 2020-10-12 14:12:22 - Retrieving IP Geolocation information failed.
+[INFO] 2020-10-12 19:29:14 - Retrieving www.youtube.com Geolocation..
+[INFO] 2020-10-12 19:29:15 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-10-12 19:29:15 - Geolocation information has been retrieved for www.youtube.com(142.250.76.78).

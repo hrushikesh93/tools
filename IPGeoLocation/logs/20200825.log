@@ -1,0 +1,6 @@
+[INFO] 2020-08-25 20:45:46 - Retrieving www.google.com Geolocation..
+[INFO] 2020-08-25 20:45:46 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-08-25 20:45:46 - Geolocation information has been retrieved for www.google.com(172.217.174.228).
+[INFO] 2020-08-25 20:48:37 - Retrieving www.youtube.com Geolocation..
+[INFO] 2020-08-25 20:48:38 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-08-25 20:48:38 - Geolocation information has been retrieved for www.youtube.com(172.217.167.174).

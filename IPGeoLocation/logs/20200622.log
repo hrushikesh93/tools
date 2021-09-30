@@ -1,0 +1,5 @@
+[ERROR] 2020-06-22 13:38:06 - Please provide a valid Domain or IP address!
+[ERROR] 2020-06-22 13:38:06 - Retrieving IP Geolocation information failed.
+[INFO] 2020-06-22 17:41:38 - Retrieving www.google.com Geolocation..
+[INFO] 2020-06-22 17:41:39 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-06-22 17:41:39 - Geolocation information has been retrieved for www.google.com(172.217.160.132).
